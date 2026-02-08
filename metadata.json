@@ -1,0 +1,5 @@
+{
+  "name": "Gerenciador Financeiro - MERA",
+  "description": "Uma aplicação web para gerenciar produtos, entradas, vendas e visualizar um balancete financeiro, seguindo as diretrizes de uma planilha profissional.",
+  "requestFramePermissions": []
+}
